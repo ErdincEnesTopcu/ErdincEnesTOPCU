@@ -6,7 +6,6 @@
 - 🌱 I’m currently learning SQL
 - 🤔 I’m looking for help with Machine Learning
 - 📫 How to reach me: *erdincenestopcu@gmail.com*
-- 😄 Pronouns: he/his
 
 ## 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
