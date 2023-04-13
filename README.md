@@ -5,12 +5,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on PYTHON,DataAnalysis
-- 🌱 I’m currently learning SQL
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with Machine Learning
+ 🔭 I’m currently working on PYTHON,DataAnalysis
+ 🌱 I’m currently learning SQL
+ 👯 I’m looking to collaborate on ...
+ 🤔 I’m looking for help with Machine Learning
 - 💬 Ask me about ...
-- 📫 How to reach me: 
-- 😄 Pronouns: he/his
+ 📫 How to reach me: 
+ 😄 Pronouns: he/his
 - ⚡ Fun fact: ...
 -->
