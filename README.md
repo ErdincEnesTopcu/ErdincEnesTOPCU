@@ -4,12 +4,10 @@
 
 - 🔭 I’m currently working on PYTHON,DataAnalysis,BA Analysis
 - 🌱 I’m currently learning SQL
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with Machine Learning
-- 💬 Ask me about ...
-- 📫 How to reach me: 
+- 📫 How to reach me: *erdincenestopcu@gmail.com*
 - 😄 Pronouns: he/his
-- ⚡ Fun fact: ...
+
 ## 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
